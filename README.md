@@ -1,4 +1,4 @@
-Below is a **Data Analysis project** outline designed to introduce **beginner-level** concepts in data manipulation (using SQL, Pandas, or Excel) and **data visualization** (using Tableau or matplotlib). It also includes **optional, more advanced** requirements for those who want to challenge themselves further. The scenario involves performing a **market analysis** of publicly available grocery data in the context of recent inflation trends and using verified sales data to provide strategic recommendations to an executive committee at a major grocery chain.
+Below is a **Data Analysis project** outline designed to introduce **beginner-level** concepts in data manipulation (using SQL, Pandas, or Excel) and **data visualization** (using Tableau or Power BI). It also includes **optional, more advanced** requirements for those who want to challenge themselves further. The scenario involves performing a **market analysis** of publicly available grocery data in the context of recent inflation trends and using verified sales data to provide strategic recommendations to an executive committee at a major grocery chain.
 
 ---
 
@@ -29,7 +29,7 @@ You’ll then compile **actionable recommendations** for an executive committee.
     - Use **SQL**, **Pandas**, or **Excel** to clean, transform, and merge datasets.
 2. **Create Data Visualizations**:
     
-    - Build charts/dashboards in **Tableau** or **matplotlib**.
+    - Build charts/dashboards in **Tableau** or **Power BI**.
 3. **Analyze Market & Economic Trends**:
     
     - Incorporate inflation data to assess how rising costs may impact sales and profits.
@@ -110,8 +110,7 @@ To keep this beginner-friendly, select or simulate data sets that are either sma
 
 1. **Choose a visualization tool**:
     
-    - **Tableau** for drag-and-drop dashboard creation.
-    - **matplotlib** (or **seaborn**, **plotly**) for code-based charts in Python.
+    - **Tableau or Power BI** for drag-and-drop dashboard creation.
 2. **Recommended Visuals**:
     
     - **Trend Line**:
@@ -162,7 +161,7 @@ To keep this beginner-friendly, select or simulate data sets that are either sma
     - Write up or notebook (Jupyter Notebook if using Python) showcasing the key descriptive statistics, transformations, and charts.
 3. **Visualization Dashboards or Charts**:
     
-    - Tableau dashboard (with interactive elements) or Python-based charts (matplotlib, seaborn, etc.).
+    - Tableau or Power BI dashboard (with interactive elements).
     - Showcase trends, comparisons by category/location, and inflation-adjusted insights.
 4. **Executive Summary** (Presentation or Report):
     
@@ -188,7 +187,7 @@ To keep this beginner-friendly, select or simulate data sets that are either sma
 By completing this project, you’ll:
 
 - **Practice data cleaning & preparation** in SQL, Excel, or Pandas.
-- **Build interactive visualizations** in Tableau or matplotlib.
+- **Build interactive visualizations** in Tableau or Power BI.
 - **Interpret economic data** (inflation) in the context of **retail sales**.
 - **Develop strategic recommendations** for a large business based on data insights.
 - (Optionally) **Hone advanced analytics** skills with scenario planning or more sophisticated dashboards.
